@@ -1,0 +1,21 @@
+/* Login.css */
+.login-container {
+    background-color: #f0f0f0; /* Grey background */
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .login-button {
+    background-color: yellow; /* Yellow login button */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .login-button:hover {
+    background-color: gold; /* Lighter yellow on hover */
+  }
